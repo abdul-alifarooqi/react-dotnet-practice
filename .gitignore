@@ -1,0 +1,8 @@
+
+.vs/*
+Persistence/obj/*
+Persistence/bin/*
+API/bin/*
+API/obj/*
+Domain/obj/*
+Domain/bin/*
