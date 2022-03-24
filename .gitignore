@@ -6,3 +6,5 @@ API/bin/*
 API/obj/*
 Domain/obj/*
 Domain/bin/*
+Application/obj/*
+client-app/public/assets/Thumbs.db
